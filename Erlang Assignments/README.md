@@ -1,0 +1,2 @@
+- 1. Spawned a new process while sending the token to it, then printing to file and terminating the process. No possibility of deadlock.
+- 2. Used the standard mergesort, kept dividing till a single element and then merged.
